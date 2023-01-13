@@ -2,7 +2,7 @@ import openai
 import tkinter as tk
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = "your key here"
 
 # Create the GUI window
 root = tk.Tk()
